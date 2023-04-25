@@ -1,0 +1,11 @@
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\bin\Debug\DataAccessLayer0.dll
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\bin\Debug\EntityLayer0.dll
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\bin\Debug\DataAccessLayer0.pdb
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\bin\Debug\EntityLayer0.pdb
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\YazOkuluKayıt Projesi\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
